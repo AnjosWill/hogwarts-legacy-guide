@@ -21,13 +21,38 @@
     },
     "page_title": {
       "id": "page_title",
-      "en-US": "Hogwarts Legacy – 100% Completion Checklist",
-      "pt-BR": "Hogwarts Legacy – Guia 100%"
+      "en-US": "Hogwarts Legacy – 100% Checklist",
+      "pt-BR": "Hogwarts Legacy – Checklist para 100%"
     },
     "checklist_subtitle": {
       "id": "checklist_subtitle",
-      "en-US": "Checklist companion for Hogwarts Legacy completionists",
-      "pt-BR": "Companheiro de checklist para completistas de Hogwarts Legacy"
+      "en-US": "Checklist companion for completing Hogwarts Legacy 100%",
+      "pt-BR": "Companheiro de checklist para platinar Hogwarts Legacy"
+    },
+    "loading_text": {
+      "id": "loading_text",
+      "en-US": "Loading...",
+      "pt-BR": "Carregando..."
+    },
+    "sections_title": {
+      "id": "sections_title",
+      "en-US": "Sections",
+      "pt-BR": "Seções"
+    },
+    "sidebar_search_placeholder": {
+      "id": "sidebar_search_placeholder",
+      "en-US": "Search...",
+      "pt-BR": "Buscar..."
+    },
+    "sidebar_collapse": {
+      "id": "sidebar_collapse",
+      "en-US": "Collapse sidebar",
+      "pt-BR": "Recolher painel"
+    },
+    "sidebar_expand": {
+      "id": "sidebar_expand",
+      "en-US": "Expand sidebar",
+      "pt-BR": "Expandir painel"
     },
     "language_label": {
       "id": "language_label",
@@ -11806,8 +11831,8 @@
     },
     "hogwarts_legacy_100_por_cento_guide_use_este_material_para_a": {
       "id": "hogwarts_legacy_100_por_cento_guide_use_este_material_para_a",
-      "en-US": "Hogwarts Legacy 100 Percent Guide · Use this material to track your progression in the game.",
-      "pt-BR": "Hogwarts Legacy 100 por cento Guide · Use este material para acompanhar sua progressão no jogo."
+      "en-US": "Hogwarts Legacy 100% Guide · Use this material to track your progression in the game.",
+      "pt-BR": "Hogwarts Legacy 100% Guide · Use este material para acompanhar sua progressão no jogo."
     },
     "btn_mark_all": {
       "id": "btn_mark_all",
